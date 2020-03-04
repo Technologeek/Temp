@@ -6,5 +6,5 @@ body {
   background-color: lightblue;
 }
 .sb-header {
-    padding: 80px;
+    padding: 80px!important;
 }
