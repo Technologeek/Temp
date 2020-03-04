@@ -8,3 +8,7 @@ body {
 .sb-header {
     padding: 80px!important;
 }
+
+  .sb-conversation {
+      background: rebeccapurple !important;
+  }
