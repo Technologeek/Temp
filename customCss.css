@@ -1,14 +1,13 @@
 * {
-    font-family: monospace;  
+	font-family: monospace;
 }
 
 body {
-  background-color: lightblue;
+	background-color: lightblue !important;
 }
 .sb-header {
     padding: 80px!important;
 }
-
-  .sb-conversation {
-      background: rebeccapurple !important;
-  }
+.sb-conversation {
+	background: rebeccapurple !important;
+}
